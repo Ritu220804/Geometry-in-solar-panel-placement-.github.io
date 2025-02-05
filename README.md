@@ -42,11 +42,3 @@ Solar energy is a renewable and clean power source, but optimal placement of sol
 
 
 
-License
-
-This project is licensed under the MIT License.
-
-
----
-
-Feel free to modify this according to your project details! Let me know if you need additional sections like installation steps, dependencies, or example outputs.
